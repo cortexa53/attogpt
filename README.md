@@ -1,0 +1,1 @@
+A minimal implementation of a decoder-only, GPT-2-style transformer, alongside some scaffolding for training and inference.  For demonstration, the main module trains a model on synthetic data composed of sequences of successive digits.
